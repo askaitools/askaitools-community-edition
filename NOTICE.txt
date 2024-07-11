@@ -1,0 +1,3 @@
+Copyright 2024 AskAITools
+
+In addition to the terms of the Apache License 2.0, any derivative works or projects based on this open-source project must prominently acknowledge that they are derived from or based on this project. This acknowledgement must be made in at least one of the following places: in the derivative project's documentation, or user interface.
