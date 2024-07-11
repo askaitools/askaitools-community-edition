@@ -4,13 +4,13 @@
 
 AskAITools (https://askaitools.ai) is a cutting-edge search engine project tailored specifically for the AI product domain. Our mission is to revolutionize the way users discover AI products by providing the most accurate, comprehensive, lightning-fast, and intelligent search experience. With AskAITools, finding the perfect AI solution has never been easier.
 
-**AskAITools Desktop Screenshot:**
+**AskAITools Desktop Web Screenshot:**
 
-[![AskAITools Desktop Screenshot](https://github.com/askaitools/askaitools-community-edition/raw/master/app/public/images/MainScreenshot.png)](https://askaitools.ai)
+[![AskAITools Desktop Web Screenshot](https://public-files.askaitools.ai/MainScreenshot.png)](https://askaitools.ai)
 
-**AskAITools Mobile Screenshot:**
+**AskAITools Mobile Web Screenshot:**
 
-[![AskAITools Mobile Screenshot](https://github.com/askaitools/askaitools-community-edition/raw/master/app/public/images/MobileScreenshot.png)](https://askaitools.ai)
+[![AskAITools Mobile Web Screenshot](https://public-files.askaitools.ai/MobileScreenshot.png)](https://askaitools.ai)
 
 This project comes in two flavors: a feature-rich commercial edition and a community edition. The community edition offers a solid foundation with a basic front-end interface and search functionality, and its code is completely open-source in this repository. Developers can effortlessly integrate their own data on top of this framework, enabling them to swiftly build specialized vertical search engines or internal document search systems for their organizations.
 
